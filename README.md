@@ -10,4 +10,4 @@ See Milan's blog here, it was the basis of this demo: https://towardsdatascience
 
 
 Final Product:
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/noah-pitts/Satellite-Image-Timelapse/blob/main/footage_complete.gif))
+![](https://github.com/noah-pitts/Satellite-Image-Timelapse/blob/main/footage_complete.gif)
